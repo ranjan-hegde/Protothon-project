@@ -278,6 +278,23 @@ const Dashboard = () => {
                     )
                 )}
             </main>
+
+            {/* Footer */}
+            <footer className="bg-white border-t border-gray-200 mt-auto">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex justify-center items-center">
+                    <p className="text-sm text-gray-500">
+                        Designed & Developed by{' '}
+                        <a
+                            href="https://github.com/ranjan-hegde/Protothon-project.git"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-green-600 hover:text-green-700 font-medium transition-colors"
+                        >
+                            Ranjan Hegde
+                        </a>
+                    </p>
+                </div>
+            </footer>
         </div>
     );
 };
