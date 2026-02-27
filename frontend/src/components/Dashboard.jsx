@@ -290,7 +290,7 @@ const Dashboard = () => {
                             rel="noopener noreferrer"
                             className="text-green-600 hover:text-green-700 font-medium transition-colors"
                         >
-                            Ranjan Hegde
+                            Team Fluxo
                         </a>
                     </p>
                 </div>
